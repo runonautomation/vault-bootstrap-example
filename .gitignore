@@ -1,0 +1,16 @@
+*.lock
+*.lock*
+.terraform
+*.tfstate
+*backup
+*.account.json
+*.info
+*.zip
+*.tfvars
+*.crt
+*.pem
+*.sh
+*.json
+*.key
+*.tfvars
+.DS_Store
